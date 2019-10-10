@@ -13,7 +13,9 @@ subtitle = ""
 <div class="skills-container">
 <div class="skills-tech">
     <span>Go</span>
+    <span>Rust</span>
     <span>Python</span>
+    <span>Ruby</span>
     <hr>
     <span>ElasticSearch</span>
     <span>MongoDB</span>
