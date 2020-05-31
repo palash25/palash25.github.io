@@ -9,25 +9,10 @@ title = "Skills"
 subtitle = ""
 +++
 
+| Languages   | DBs  | Tooling  |
+|---|---|---|
+| Go  | Elasticsearch  | Docker  |
+| Rust  | MongoDB  | Git  |
+| Python  | Redis  | Kubernetes  |
+| Ruby  | -  | -  |
 
-<div class="skills-container">
-<div class="skills-tech">
-    <span>Go</span>
-    <span>Rust</span>
-    <span>Python</span>
-    <span>Ruby</span>
-    <hr>
-    <span>ElasticSearch</span>
-    <span>MongoDB</span>
-    <hr>
-    <span>Docker</span>
-    <span>Kubernetes</span>
-    <hr>
-    <span>GCP</span>
-    <span>AWS</span>
-    <hr>
-    <span>git</span>
-    <hr>
-    <span>REST</span>
-</div>
-</div>

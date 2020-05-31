@@ -50,6 +50,10 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/palash25
+
+- icon: goodreads
+  icon_pack: fab
+  link: https://www.goodreads.com/palash25
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -66,14 +70,8 @@ email: "npalash25@gmail.com"
 #- Visitors
 ---
 
-Hi, I am Palash. An open source developer and programming language enthusiast interested in distributed systems, tooling and systems programming. I mostly write REST APIs (trying to learn more about gRPC these days) and dev tools. I can write code in Go, Rust, Ruby and Python but I am also interested in and learning C, Erlang, Ocaml, Nim, Elixir etc.
+Hi, I am Palash. An open source developer and programming language enthusiast interested in distributed systems. I enjoy building backend services and developer tools and contributing to open source projects in my free time. You can find me on [Github](https://github.com/palash25/) and [Openhub](https://www.openhub.net/accounts/palash25).
 
-I was first introduced to programming in school using LOGO which was fun. Afterwards we were also taught Basic and Java which I liked at first but the school along with its curiculum was successful in turning even programming into a boring chore. I rediscovered my love for programming once I started my undergrad.
+I have been writing open source / production grade code since 2018. I started out with Python as my primary programming language but soon my curiousty made me explore other langauges as well. Most of the code that I get paid to write is in Go besides Go I have also written some Ruby and these days I am tinkering with Rust, Clojure, Elixir, Zig, Nim, Pony, etc.
 
-In college I was introduced to open source software. The idea of being able to read and modify the source code of a software fascinated me. After months of struggle I made my first contribution in the form of a DuckDuckGo instant answer (lookup Lolcode Cheat Sheet on DDG to see it in action) and ever since then I haven't looked back.
-
-Open source contributions opened up a lot of opportunities for me. Besides being able to hack on various different codebases I was also offered paid gigs to work on open source software by orgs like [coala](https://coala.io) under Google Summer of Code '18, [Appbase](https://appbase.io) as an intern and [CNCF](https://cncf.io) under the Community Bridge Programme.
-
-I have also interned at a startup called [Atlan](https://atlan.com/). My experience there was a mixed bag but I got to work on this really cool product called [Collect](https://collect.atlan.com/) rewriting the Analytics API for Collect in Go which will probably never go on production because of the poor management.
-
-Currently I am familiarizing myself with functional programming and studying more about distributed systems. I am looking for internships/full-time opportunities where I will get to work on building highly available and scalable services using distributed systems concepts and modern DevOps practices.
+Besides programming langauges my newfound interests include distributed systems (especially databases), web assembly and infrastructure engineering. I am always on the lookout for challenging projects and work opportunities that include one or more of my aforementioned interests. If you would like to hire me feel free to reach out through [Linkedin](https://www.linkedin.com/in/palash25/), [Twitter](https://twitter.com/palash2504) or email: palash-at-fastmail-dot-com

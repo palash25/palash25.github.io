@@ -19,6 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "Started reading books and logging my progress on goodreads"
+  url = "https://www.goodreads.com/palash25"
+  certificate_url = ""
+  date_start = "2019-12-01"
+  date_end = ""
+  description = "All because of sumo"
+
+[[item]]
   organization = "CNCF"
   organization_url = "https://www.cncf.io"
   title = "Got selected as Community Bridge Intern"

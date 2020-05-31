@@ -85,13 +85,12 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "npalash25@gmail.com"
+#email = "npalash25@gmail.com"
 email_form = 0
-phone = "+91-7905331258"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "MMS, 2/63, Sector-C, Jankipuram", city = "Lucknow", region = "UP", postcode = "226021", country = "India", country_code = "IN"}
+# address = {street = "MMS, 2/63, Sector-C, Jankipuram", city = "Lucknow", region = "UP", postcode = "226021", country = "India", country_code = "IN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

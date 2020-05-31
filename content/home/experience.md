@@ -34,6 +34,25 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "SDE Intern"
+  company = "Hackerrank"
+  company_url = "https://hackerrank.com"
+  location = "Bengaluru, India"
+  date_start = "2020-01-06"
+  date_end = "2020-05-30"
+  description = """
+* Git skills (a git analytics dashboard to help provide CTOs and engineering management insights into the org's developer skills)
+  - Wrote the git analysis engine in Go from scratch.
+  - Worked on the rails backend for the web app
+  - Designed the elasticsearch schema
+
+* CodeRunner (Hackerrank's code exection service written in Go)
+  - Reduced the compile time for Rust submissions from 20s to 0.52s by reusing build artifacts across submissions
+
+  Tech Stack: Go, Ruby on Rails, Elasticsearch
+  """
+
+[[experience]]
   title = "Backend Engineering Intern"
   company = "Atlan"
   company_url = "https://atlan.com"
