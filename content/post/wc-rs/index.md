@@ -4,6 +4,7 @@ date: 2019-10-12
 math: false
 diagram: true
 markup: mmark
+diagram: true
 image:
   placement: 3
   caption: 'Image credit: [**carbon.now.sh**](https://carbon.now.sh/)'
